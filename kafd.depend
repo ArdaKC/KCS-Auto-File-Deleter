@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630958164 source:/home/ardakc/Downloads/sap/main.cpp
+	<iostream>
+	<crypt.h>
+	<stdio.h>
+	<unistd.h>
+
